@@ -1,2 +1,2 @@
 # publication
-it is repository for public work
+it is a repository for public works
